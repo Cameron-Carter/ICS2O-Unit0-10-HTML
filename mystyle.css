@@ -26,6 +26,13 @@
   border-color:magenta;
   float:left;
 }
+.imagetwo {
+  border-style:dotted;
+  border-color:black;
+  position:absolute;
+  top:2000px;
+  left:300px;
+}
 .clearfix::after {
   content: "";
   clear: both;
@@ -35,3 +42,4 @@
   width:4px;
   color:purple;
 }
+
