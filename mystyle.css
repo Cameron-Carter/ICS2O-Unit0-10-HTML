@@ -16,9 +16,10 @@
   font-family:arial;
 }
 .paragraph {
-  background-color:sienna;
-  color:yellow;
+  background-color:black;
+  color:white;
   font-family:arial;
+  font-size:200%;
   float:right;
 }
 .image {
